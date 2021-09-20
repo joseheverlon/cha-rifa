@@ -1,1 +1,455 @@
+body{
 
+  margin: 0;
+
+  padding: 0;
+
+  user-select: none;
+
+  font-family: 'roboto', sans-serif;
+
+  
+
+}
+
+.content{
+
+  background: ;
+
+  width: 100vw;
+
+  height: vh;
+
+}
+
+.card{
+
+  background: ;
+
+  width: 100vw;
+
+  height: 80vw;
+
+  margin-bottom: .1vw;
+
+  position: relative;
+
+}
+
+#card1{
+
+  background: lightblue;
+
+  position: relative;
+
+}
+
+.texto1{
+
+  background: blu;
+
+  position: absolute;
+
+  width: 140%;
+
+  left: -20vw;
+
+  top: 38vw;
+
+  font-size: 3.5vw;
+
+  padding: 1.5vw;
+
+  text-align: center;
+
+  font-weight: 900;
+
+  
+
+}
+
+.fundo{
+
+  width: 100vw;
+
+  height: 100%;
+
+  position: absolute;
+
+}
+
+.fralda{
+
+  position: absolute;
+
+  background: whit;
+
+  width: 60vw;
+
+  height: 10vw;
+
+  right: 1vw;
+
+  font-size: 2.5vw;
+
+  top: 68vw;
+
+  line-height: 5vw;
+
+  font-weight: 900;
+
+}
+
+.imgfralda{
+
+  width: 10vw;
+
+  height: 10vw;
+
+  position: relative;
+
+  border-radius: 100%;
+
+  left: 8vw;
+
+  top: -1vw;
+
+  object-fit: cover;
+
+    object-position: top;
+
+}
+
+span{
+
+  background: whit;
+
+  font-size: vw;
+
+  position: absolute;
+
+  right: 2vw;
+
+  top: -2vw;
+
+}
+
+#card2{
+
+  background: darkcyan;
+
+  height: 150vw;
+
+}
+
+.cabecalho{
+
+  background: whit;
+
+  width: 42vw;
+
+  height: 70vw;
+
+  position: relative;
+
+  left: 58vw;
+
+}
+
+h1{
+
+  width: 100%;
+
+  background: teal;
+
+  font-size: 7vw;
+
+  position: absolute;
+
+  left: -4vw;
+
+  top: -1vw;
+
+  font-weight: 700;
+
+  color: white;
+
+  padding-right: 4vw;
+
+  font-family: cursive;
+
+}
+
+h2{
+
+  position: absolute;
+
+  font-size: 11vw;
+
+  width: 100%;
+
+  right: 4vw;
+
+  top: 5vw;
+
+  background: blu;
+
+  font-family: courie;
+
+  font-weight: 500;
+
+  color: darkcyan;
+
+   /* -webkit-text-stroke: 1.5px white;*/
+
+  text-shadow: 2px 2px 3px rgba(0,0,0,.5);
+
+  -webkit-text-stroke: .5px white;
+
+}
+
+.imgcard{
+
+  width: 60%;
+
+  height: ;
+
+  position: absolute;
+
+  top: 1vw;
+
+  left: -2vw;
+
+  filter: drop-shadow(1px 1px 1px rgba(0,0,0,.5));
+
+}
+
+.expli{
+
+  background: lightblu;
+
+  color: white;
+
+  width: 33vw;
+
+  font-size: 5vw;
+
+  position: absolute;
+
+  text-align: center;
+
+  font-family: cursive;
+
+  top: -4.5vw;
+
+  font-weight: 900;
+
+}
+
+.rifa{
+
+  background: ;
+
+  width: 100vw;
+
+  height: 50vw;
+
+  position: relative;
+
+  top: 48vw;
+
+}
+
+.numero{
+
+  background: lightblue;
+
+  width: 9vw;
+
+  height: 9vw;
+
+  float: left;
+
+  margin: .5vw;
+
+  line-height: 9vw;
+
+  text-align: center;
+
+  font-weight: 700;
+
+}
+
+.numero:hover{
+
+  background: yellow;
+
+  position: relative;
+
+  transition: .4s;
+
+}
+
+.txtgrupo{
+
+  background: whit;
+
+  width: 100vw;
+
+  height: 20vw;
+
+  position: absolute;
+
+  margin-top: 10vw;
+
+}
+
+.txt{
+
+  background: whit;
+
+  width: 33vw;
+
+  height: 100%;
+
+  float: left;
+
+  font-size: 3vw;
+
+  margin: .1vw;
+
+  text-align: center;
+
+  font-weight: 900;
+
+  font-family: cursiv;
+
+  margin-top: -3vw;
+
+  
+
+}
+
+#txt2{
+
+  margin-top: -9vw;
+
+  height: 25vw;
+
+}
+
+.spanum{
+
+  position: relative;
+
+  top: 2vw;
+
+  background: yellow;
+
+  border-radius: 100%;
+
+  width: 4vw;
+
+  height: 4vw;
+
+  display: block;
+
+  left: 13vw;
+
+  line-height: 4vw;
+
+  text-align: center;
+
+  font-weight: 900;
+
+}
+
+.linknumero{
+
+  color: black;
+
+  text-decoration: none;
+
+}
+
+.pd{
+
+  background: yello;
+
+  width: 100vw;
+
+  height: 18vw;
+
+  position: absolute;
+
+  top: 30vw;
+
+  border-top: .1vw yellow solid;
+
+}
+
+.premiacao{
+
+  background: re;
+
+  width: 49.5vw;
+
+  height: 100%;
+
+  float: left;
+
+}
+
+.data{
+
+  background: re;
+
+  width: 49.5vw;
+
+  height: 100%;
+
+  float: right;
+
+  top: ;
+
+}
+
+.premiacao{
+
+  font-family: cursive;
+
+  text-align: center;
+
+  font-weight: 900;
+
+  font-size: 6vw;
+
+  letter-spacing: 1vw;
+
+  line-height: 9vw;
+
+  color: white;
+
+  text-shadow: 1px 1px 3px rgba(0,0,0,.5);
+
+}
+
+.data{
+
+  font-family: cursive;
+
+  text-align: center;
+
+  font-weight: 900;
+
+  font-size: 6vw;
+
+  letter-spacing: 1vw;
+
+  line-height: 9vw;
+
+  color: white;
+
+  text-shadow: 1px 1px 3px rgba(0,0,0,.5);
+
+}
