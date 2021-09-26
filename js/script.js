@@ -108,7 +108,7 @@ num.style.background = 're';
 
 
 var num = document.querySelector("#numero28");
-num.style.background= 're';
+num.style.background= 'red';
 
 
 var num = document.querySelector("#numero29");
@@ -510,7 +510,7 @@ link.href='https://wa.me/+558584045724?text=Olá! Gostaria de colocar um ponto n
 link.innerHTML='27';
 
 var link = document.querySelector("#linknumero28");
-link.href='https://wa.me/+558584045724?text=Olá! Gostaria de colocar um ponto no número *28*.';
+link.href='https://wame/+558584045724?text=Olá! Gostaria de colocar um ponto no número *28*.';
 link.innerHTML='28';
 
 var link = document.querySelector("#linknumero29");
