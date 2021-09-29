@@ -48,7 +48,7 @@ num.style.background = 're';
 
 
 var num = document.querySelector("#numero13");
-num.style.background = 're';
+num.style.background = 'red';
 
 
 var num = document.querySelector("#numero14");
@@ -259,7 +259,7 @@ num.style.background= 're';
 
 
 var num = document.querySelector("#numero66");
-num.style.background = 're';
+num.style.background = 'red';
 
 
 var num = document.querySelector("#numero67");
@@ -351,7 +351,7 @@ num.style.background = 're';
 
 
 var num = document.querySelector("#numero89");
-num.style.background = 're';
+num.style.background = 'red';
 
 
 var num = document.querySelector("#numero90");
@@ -450,7 +450,7 @@ link.href = 'https://wa.me/+558584045724?text=Olá! Gostaria de colocar um ponto
 link.innerHTML = '12';
 
 var link = document.querySelector("#linknumero13");
-link.href = 'https://wa.me/+558584045724?text=Olá! Gostaria de colocar um ponto no número *13*.';
+link.href = 'https://wame/+558584045724?text=Olá! Gostaria de colocar um ponto no número *13*.';
 link.innerHTML = '13';
 
 var link = document.querySelector("#linknumero14");
@@ -662,7 +662,7 @@ link.href='https://wa.me/+558584045724?text=Olá! Gostaria de colocar um ponto n
 link.innerHTML='65';
 
 var link = document.querySelector("#linknumero66");
-link.href='https://wa.me/+558584045724?text=Olá! Gostaria de colocar um ponto no número *66*.';
+link.href='https://wame/+558584045724?text=Olá! Gostaria de colocar um ponto no número *66*.';
 link.innerHTML='66';
 
 var link = document.querySelector("#linknumero67");
@@ -754,7 +754,7 @@ link.href='https://wa.me/+558584045724?text=Olá! Gostaria de colocar um ponto n
 link.innerHTML='88';
 
 var link = document.querySelector("#linknumero89");
-link.href='https://wa.me/+558584045724?text=Olá! Gostaria de colocar um ponto no número *89*.';
+link.href='https://wame/+558584045724?text=Olá! Gostaria de colocar um ponto no número *89*.';
 link.innerHTML='89';
 
 var link = document.querySelector("#linknumero90");
