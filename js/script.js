@@ -52,7 +52,7 @@ num.style.background = 'red';
 
 
 var num = document.querySelector("#numero14");
-num.style.background = 're';
+num.style.background = 'red';
 
 
 var num = document.querySelector("#numero15");
@@ -454,7 +454,7 @@ link.href = 'https://wame/+558584045724?text=Olá! Gostaria de colocar um ponto 
 link.innerHTML = '13';
 
 var link = document.querySelector("#linknumero14");
-link.href = 'https://wa.me/+558584045724?text=Olá! Gostaria de colocar um ponto no número *14*.';
+link.href = 'https://wame/+558584045724?text=Olá! Gostaria de colocar um ponto no número *14*.';
 link.innerHTML = '14';
 
 var link = document.querySelector("#linknumero15");
